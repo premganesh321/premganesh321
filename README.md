@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raghavaganesh9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghavaganesh9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raghava ganesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghava ganesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/spremganesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghava ganesh" height="30" width="40" /></a>
 <a href="https://instagram.com/s.raghava_ganesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.raghava_ganesh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/premganesh321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="premganesh321" height="30" width="40" /></a>
 </p>
